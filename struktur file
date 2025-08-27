@@ -1,0 +1,35 @@
+Struktur File Codingan GFC 2025
+
+gfc 2025/
+	admin/
+•	dashboard.php
+•	db.php
+•	edit-pertandingan.php
+•	hapus-pertandingan.php
+•	input-pertandingan.php
+•	input-gallery.php
+•	input-goal.php
+•	input-kiper.php
+•	input-kontak.php
+•	input-match.php
+•	input-skor.php
+•	input-statistik.php
+•	input-suporter.php
+•	input-topskor.php
+•	login.php
+•	logout.php
+	assets/
+•	img/
+-	logo-gfc.png
+	public
+•	uploads/
+-	galeri
+•	awards.php
+•	detail-match.php
+•	galeri.php
+•	index.php
+•	klasemen.php
+•	kontak.php
+•	live.php
+•	statistik.php
+
